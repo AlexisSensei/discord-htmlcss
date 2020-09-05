@@ -1,0 +1,7 @@
+/* IMPORT DE TOUS LES STYLES */
+
+@import "_base.css";
+@import "layout/_main.css";
+@import "layout/_sectiong.css";
+@import "layout/_sectiond.css";
+@import "components/_navbar.css";

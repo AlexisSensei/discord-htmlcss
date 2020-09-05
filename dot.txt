@@ -1,0 +1,8 @@
+- Block / Inline / Inline-block
+- Flex - Mise en colonne check
+- box-sizing: border-box ?? check
+
+- Savoir structurer un dossier - Check
+
+- Variables css ?
+- Darkmode

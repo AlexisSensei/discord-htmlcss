@@ -1,0 +1,6 @@
+main {
+    border-left: 10px solid #414141;
+    border-right: 10px solid #414141;
+    width: 50%;
+    min-height: 100vh;
+}

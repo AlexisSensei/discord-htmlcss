@@ -1,0 +1,13 @@
+.d {
+    border-left: 10px solid #411402;
+    border-right: 10px solid #411402;
+    width: 30%;
+    background-color: orangered;
+    height: 100vh;
+}
+
+@media screen and (max-width: 600px) {
+    .d {
+        width: 100%;
+    }
+}
